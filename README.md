@@ -3,11 +3,12 @@
 **Tumblr feed** is a tumblr feed app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2).
 
 ## Video Walkthrough 
-Week 1:
+### Week 1:
 <img src='http://i.imgur.com/IyBZCPh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Week 2:
-<img src='http://i.imgur.com/RYAzXkW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Week 2:
+<img src='http://i.imgur.com/7lQUWxn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
